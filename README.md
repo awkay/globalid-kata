@@ -1,9 +1,13 @@
 Global ID Kata
 ====
 
+Solution to the "Global ID" Kata.
+
 Prereq: The factory kata
 
-A kata for practicing:
+This is a solution to the "global id kata".
+
+It helps you practice:
 
   - Working with Maven
   - Writing code to specs with BDD
